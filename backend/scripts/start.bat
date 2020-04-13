@@ -1,0 +1,1 @@
+.\target\debug\node-template.exe --dev  -l error,runtime
